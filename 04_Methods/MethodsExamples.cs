@@ -33,7 +33,7 @@ namespace _04_Methods
         private int MultiplyTwoNumbers(int x, int z)
         {
             int prod = x * z;
-            return prod
+            return prod;
         }
 
         private int FindRemainder(int a, int numTwo) 
